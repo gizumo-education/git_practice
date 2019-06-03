@@ -28,3 +28,4 @@ Linuxユーザについて学んだ
 SQLで調査をした。
 PHP.iniはphpinfoで見れた。
 へ☻んき
+apl
