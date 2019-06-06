@@ -30,3 +30,6 @@ PHP.iniはphpinfoで見れた。
 へ☻んき
 apl
 API使えた！
+
+lpmつかえた
+
