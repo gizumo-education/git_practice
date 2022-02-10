@@ -1,1 +1,2 @@
+git reset test 4
 あ
